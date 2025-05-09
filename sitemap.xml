@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/education/</loc>
+  </url><url>
+    <loc>https://example.com/home/subheader/</loc>
+  </url><url>
+    <loc>https://example.com/publications/</loc>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/cv/</loc>
+  </url><url>
+    <loc>https://example.com/expriences/</loc>
+  </url><url>
+    <loc>https://example.com/home/</loc>
+  </url><url>
+    <loc>https://example.com/</loc>
+  </url><url>
+    <loc>https://example.com/patents/</loc>
+  </url><url>
+    <loc>https://example.com/awards/</loc>
+  </url><url>
+    <loc>https://example.com/services/</loc>
+  </url><url>
+    <loc>https://example.com/grants/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+</urlset>
