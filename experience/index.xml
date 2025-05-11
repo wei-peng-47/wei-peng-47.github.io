@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Peng&#39;s Academic Site</title>
-    <link>http://localhost:1313/expriences/</link>
+    <link>https://wei-peng-47.github.io/experience/</link>
     <description>Recent content on Wei Peng&#39;s Academic Site</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/expriences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wei-peng-47.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
